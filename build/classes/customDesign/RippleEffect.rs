@@ -1,0 +1,4 @@
+customDesigns.RippleEffect$Effect
+customDesigns.RippleEffect$1
+customDesigns.RippleEffect
+customDesigns.RippleEffect$Effect$1
